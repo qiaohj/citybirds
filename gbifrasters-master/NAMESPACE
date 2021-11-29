@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+import(purrr)
+import(dplyr)
+import(tibble)
+import(tidyr)
+import(roperators)
